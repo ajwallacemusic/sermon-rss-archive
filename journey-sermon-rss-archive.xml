@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://patchbay.journeyon.net/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://s3.amazonaws.com/sermonaudiostaticxml/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Journey - Sermons (audio)</title>
 <description>At The Journey, Jesus is the heartbeat of everything we do. He&#039;s what makes us go, who we live for, the person that we orient our lives around. We want our church to embody his love for each other and our city. While the doctrines that express our faith in him aren&#039;t everything, they help give shape to our faith.</description>
 <link>http://thejourney.org</link>
-<atom:link rel="self" href="http://patchbay.journeyon.net/sermon-audio" />
+<atom:link rel="self" href="https://s3.amazonaws.com/sermonaudiostaticxml/sermon-audio.xml" />
 <language>en-US</language>
 <category>Christianity</category>
 <copyright>The Journey</copyright>
@@ -17,7 +17,7 @@
 <itunes:category text="Christianity" />
 </itunes:category>
 <itunes:keywords>the journey,christianity,sermons,st. louis</itunes:keywords>
-<itunes:image href="http://patchbay.journeyon.net/sites/default/files/PodcastLogo1400x1400.jpg" />
+<itunes:image href="https://s3.amazonaws.com/sermonaudiostaticxml/PodcastLogo1400x1400.jpg" />
 <itunes:author>The Journey</itunes:author>
 <itunes:explicit>no</itunes:explicit>
 <itunes:new-feed-url>http://rss.thejourney.org/journey-sermon-audio</itunes:new-feed-url>
